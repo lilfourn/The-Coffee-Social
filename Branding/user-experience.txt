@@ -1,0 +1,8 @@
+User Experience (UX) Vibe
+Website/App Design: Clean, airy layouts with rounded corners and soft shadows.
+
+Map Feature: Custom pins shaped like coffee cups; users can “collect” visited shops.
+
+Profile Pages: Let users showcase a “coffee passport” (stamps for visited cafes).
+
+Gamification: Badges for milestones (e.g., “Caffeine Connoisseur” for 50 reviews).

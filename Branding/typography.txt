@@ -1,0 +1,6 @@
+Typography
+Headings: Nunito (rounded, friendly, modern)
+
+Body Text: Lato (clean, approachable, readable)
+
+Accent Text: Playfair Display (for quotes or merch — adds a touch of elegance).
